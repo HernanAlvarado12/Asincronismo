@@ -1,0 +1,20 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "project for learn the topic async and await\"",
+  "main": "model.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./css/mobile.css -o ./css/tailwind.css --watch"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "tilwindcss",
+    "vanillajs"
+  ],
+  "author": "Hernan Alvarado <hernanvid123@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.2.6"
+  }
+}
